@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on 健康の窓口〜おっちゃんに言わせて</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on 健康の窓口〜おっちゃんに言わせて</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nursing</title>
+      <link>http://localhost:1313/categories/nursing/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/nursing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dementia</title>
+      <link>http://localhost:1313/categories/dementia/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/dementia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>http://localhost:1313/categories/health/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/health/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

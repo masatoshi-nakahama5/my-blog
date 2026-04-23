@@ -1,0 +1,14 @@
+baseURL = "https://example.com/"
+languageCode = "ja"
+title = "健康の窓口〜おっちゃんに言わせて"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
