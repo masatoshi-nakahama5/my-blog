@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "/"
 languageCode = "ja"
 title = "健康の窓口〜おっちゃんに言わせて"
 theme = "PaperMod"
@@ -8,6 +8,9 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [taxonomies]
   category = "categories"
