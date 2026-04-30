@@ -1,28 +1,10 @@
 ---
 title: "HOME"
 date: 2023-11-03
+build:
+  list: never
+  render: always
 ---
-
-## NEWS
-
-- 新着記事
-- 人気記事
-
-## プロフィール
-
-![](images/image_6483441-2.jpg)
-
-私は長年健康畑で働いてきました。
-
-私には認知症の母がいます。
-
-その経験を活かして
-
-認知症予防や介護予防に関して
-
-お役に立つ情報をお届けします。
-
-皆様の助けになれれば幸いです。
 
 ## 認知症
 
@@ -30,7 +12,7 @@ date: 2023-11-03
 
 認知症予防に関する記事
 
-[もっと詳しく](https://medicare-occhann.com/category/dementia/)
+[もっと詳しく](/categories/dementia/)
 
 ## 介護
 
@@ -38,7 +20,7 @@ date: 2023-11-03
 
 介護予防に関する記事
 
-[もっと詳しく](https://medicare-occhann.com/category/nursing/)
+[もっと詳しく](/categories/nursing/)
 
 ## 健康
 
@@ -46,4 +28,4 @@ date: 2023-11-03
 
 健康全般に関する記事
 
-[もっと詳しく](https://medicare-occhann.com/category/health/)
+[もっと詳しく](/categories/health/)

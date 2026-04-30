@@ -1,33 +1,12 @@
 ---
-title: "おっちゃんの健康ブログ"
-date: 2021-10-05
+title: "Toraponの健康ブログ"
+date: 2026-04-29
+draft: true
 categories: 
   - "health"
 tags: 
   - "介護予防"
-coverImage: "9839c70cc44f6844234af8533341a3a2.webp"
+cover:
+  image: "/images/tiger.png"
+  alt: "Toraponの健康ブログ"
 ---
-
-<figure>
-
-![](images/fbc026c9fb552701f8db2b0df2aa9114-1024x827.webp)
-
-<figcaption>
-
-_理想の私_
-
-</figcaption>
-
-</figure>
-
-医療・介護畑で約３０年間働いてきた自身の経験を活かし、私の体験も語りながら、有益な情報を発信していきます。
-
-おっちゃんの私は今も現役（病院勤務）です。
-
-節々の痛みと闘いながらこれからも日々奮闘です(^\_^)。
-
-## これからお伝えしたいこと
-
-- **認知症予防・介護予防**のために知ってほしいこと
-
-- 健康全般について

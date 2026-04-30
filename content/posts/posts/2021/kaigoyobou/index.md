@@ -5,7 +5,9 @@ categories:
   - "dementia"
 tags: 
   - "介護予防"
-coverImage: "48b261a6ec908ca9fec77fb7fd59bde5.jpg"
+cover:
+  image: "images/48b261a6ec908ca9fec77fb7fd59bde5.jpg"
+  alt: "介護予防"
 ---
 
 私には認知症の母がいます。もうすぐ７５歳です。

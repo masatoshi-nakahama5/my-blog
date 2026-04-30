@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "ja"
-title = "健康の窓口〜おっちゃんに言わせて"
+title = "健康の窓口"
 theme = "PaperMod"
 
 [params]
@@ -8,6 +8,20 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
+  ShowShareButtons = false
+
+  [params.profileMode]
+    enabled = true
+    title = "Toraponの健康ブログ"
+    subtitle = "認知症・介護・健康について、わかりやすい情報をお届けします。"
+    imageUrl = "/images/tiger.png"
+    imageWidth = 240
+    imageHeight = 320
+    imageTitle = "おっちゃん"
+
+  [params.cover]
+    hiddenInList = false
+    hiddenInSingle = false
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -15,3 +29,28 @@ theme = "PaperMod"
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+[[menus.main]]
+  name = "記事一覧"
+  url = "/posts/"
+  weight = 10
+
+[[menus.main]]
+  name = "プロフィール"
+  url = "/posts/pages/2023/profile/"
+  weight = 20
+
+[[menus.main]]
+  name = "サイトマップ"
+  url = "/posts/pages/2023/sitemap/"
+  weight = 30
+
+[[menus.main]]
+  name = "プライバシーポリシー"
+  url = "/posts/pages/2023/privacypolicy/"
+  weight = 35
+
+[[menus.main]]
+  name = "お問い合わせ"
+  url = "/posts/pages/2023/contact/"
+  weight = 40
