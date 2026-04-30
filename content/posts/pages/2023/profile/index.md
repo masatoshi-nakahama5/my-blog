@@ -7,7 +7,7 @@ build:
 ---
 
 <div style="text-align:center; margin: 1.5rem 0;">
-  <img src="/images/tiger.png" alt="おっちゃん" width="220" style="display:inline-block;">
+  <img src="/images/tiger.png" alt="Torapon" width="220" style="display:inline-block;">
 </div>
 
 約３０年間、健康畑で働いてきました。
