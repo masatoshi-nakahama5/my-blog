@@ -4,7 +4,7 @@ title = "健康の窓口"
 theme = "PaperMod"
 
 [params]
-  defaultTheme = "auto"
+  defaultTheme = "light"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
