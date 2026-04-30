@@ -1,0 +1,53 @@
+/* 全体の背景色を優しいウォームベージュに（シニア読者の目に優しく） */
+:root {
+  --theme: #FBF7F0;       /* ページ全体の背景 */
+  --entry: #FFFEFA;       /* 記事カード/本文背景（少しだけ明るく） */
+  --code-bg: #F2EDE3;     /* コードブロック・引用ボックスの背景 */
+  --border: #E8E2D5;      /* 区切り線の色（より穏やかに） */
+}
+
+/* ダークモードは PaperMod デフォルトのまま（落ち着いた濃グレー） */
+
+/* 画像のやさしいフェードイン */
+img {
+  animation: imgFadeIn 0.7s ease-out both;
+}
+
+@keyframes imgFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.99);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* 記事一覧のカバー画像ホバー */
+.post-entry .entry-cover img {
+  transition: transform 0.4s ease, opacity 0.4s ease;
+}
+
+.post-entry .entry-cover img:hover {
+  transform: scale(1.03);
+  opacity: 0.92;
+}
+
+/* 記事内カバー画像のサイズ制限 */
+.post-single .post-header img,
+figure.entry-cover img {
+  max-height: 320px;
+  width: auto;
+  margin: 0 auto;
+  display: block;
+  object-fit: contain;
+}
+
+/* お問い合わせフォームの入力欄フォーカス時の光り */
+input:focus,
+textarea:focus {
+  outline: none;
+  border-color: #666 !important;
+  box-shadow: 0 0 0 3px rgba(100, 100, 100, 0.15);
+}
