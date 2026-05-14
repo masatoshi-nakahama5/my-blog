@@ -15,13 +15,17 @@ theme = "PaperMod"
     title = "Toraponの健康ブログ"
     subtitle = "認知症・介護・健康について、わかりやすい情報をお届けします。"
     imageUrl = "/images/tiger.png"
-    imageWidth = 240
-    imageHeight = 360
+    imageWidth = 280
+    imageHeight = 280
     imageTitle = "Torapon"
 
   [params.cover]
     hiddenInList = false
     hiddenInSingle = false
+
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/Torapon0104"
 
 [markup.goldmark.renderer]
   unsafe = true

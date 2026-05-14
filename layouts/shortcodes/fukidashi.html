@@ -1,0 +1,22 @@
+{{- $who := .Get "who" | default "torapon" -}}
+{{- $name := "" -}}
+{{- $img := "" -}}
+{{- $align := "left" -}}
+{{- if eq $who "torapon" -}}
+  {{- $name = "Torapon" -}}
+  {{- $img = "/images/tiger.png" -}}
+  {{- $align = "left" -}}
+{{- else if eq $who "reader" -}}
+  {{- $name = "あなた" -}}
+  {{- $img = "/images/reader.png" -}}
+  {{- $align = "right" -}}
+{{- end -}}
+<div class="fukidashi fukidashi-{{ $align }}">
+  <div class="fukidashi-icon">
+    <img src="{{ $img }}" alt="{{ $name }}">
+    <span class="fukidashi-name">{{ $name }}</span>
+  </div>
+  <div class="fukidashi-bubble">
+    {{ .Inner | .Page.RenderString (dict "display" "block") }}
+  </div>
+</div>

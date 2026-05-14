@@ -1,0 +1,49 @@
+{{- /*
+  アフィリエイト商品カード shortcode
+
+  使い方:
+  {{< affiliate
+      title="商品名"
+      image="/images/products/foo.jpg"
+      amazon="https://amzn.to/xxx"
+      rakuten="https://hb.afl.rakuten.co.jp/xxx"
+      description="現場でも使われている定番モデル" >}}
+
+  引数 (すべて任意):
+    title       — 商品名（必須に近い）
+    image       — 商品画像のパスまたはURL
+    amazon      — Amazon商品ページURL（もしも経由のリンクでも可）
+    rakuten     — 楽天商品ページURL（もしも経由のリンクでも可）
+    description — 商品の補足説明
+*/ -}}
+
+{{- $title := .Get "title" -}}
+{{- $image := .Get "image" -}}
+{{- $amazon := .Get "amazon" -}}
+{{- $rakuten := .Get "rakuten" -}}
+{{- $description := .Get "description" -}}
+
+<div class="affiliate-card">
+  <span class="affiliate-pr-label">PR</span>
+  {{- if $image }}
+  <div class="affiliate-image">
+    <img src="{{ $image }}" alt="{{ $title }}" loading="lazy">
+  </div>
+  {{- end }}
+  <div class="affiliate-body">
+    {{- if $title }}
+    <p class="affiliate-title">{{ $title }}</p>
+    {{- end }}
+    {{- if $description }}
+    <p class="affiliate-desc">{{ $description | safeHTML }}</p>
+    {{- end }}
+    <div class="affiliate-buttons">
+      {{- if $amazon }}
+      <a class="affiliate-btn affiliate-btn-amazon" href="{{ $amazon }}" target="_blank" rel="nofollow sponsored noopener">Amazonで見る</a>
+      {{- end }}
+      {{- if $rakuten }}
+      <a class="affiliate-btn affiliate-btn-rakuten" href="{{ $rakuten }}" target="_blank" rel="nofollow sponsored noopener">楽天で見る</a>
+      {{- end }}
+    </div>
+  </div>
+</div>

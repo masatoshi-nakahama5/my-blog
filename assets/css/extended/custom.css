@@ -44,10 +44,308 @@ figure.entry-cover img {
   object-fit: contain;
 }
 
+/* 本文中の画像は半分サイズ（カバーとアフィリエイトカードは除外） */
+.post-content p > img,
+.post-content figure:not(.entry-cover) img {
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+}
+@media (max-width: 600px) {
+  .post-content p > img,
+  .post-content figure:not(.entry-cover) img {
+    max-width: 80%;
+  }
+}
+
 /* お問い合わせフォームの入力欄フォーカス時の光り */
 input:focus,
 textarea:focus {
   outline: none;
   border-color: #666 !important;
   box-shadow: 0 0 0 3px rgba(100, 100, 100, 0.15);
+}
+
+/* 本文中の太字に落ち着いた色（見出し内の太字は黒のまま） */
+.post-content strong {
+  color: #1F4E79;  /* 深いネイビー：信頼感があり、目に優しい */
+}
+
+/* 見出し内の太字は見出しの色を継承（黒のまま） */
+.post-content h1 strong,
+.post-content h2 strong,
+.post-content h3 strong,
+.post-content h4 strong,
+.post-content h5 strong,
+.post-content h6 strong {
+  color: inherit;
+}
+
+/* H2 セクションに自動で番号を付ける（「目次」と「参考」だけ除外） */
+.post-content {
+  counter-reset: section;
+}
+.post-content > h2:not(#目次)::before {
+  counter-increment: section;
+  content: counter(section) ". ";
+  color: var(--primary);
+}
+
+/* 太字を含む段落の上下に余白を増やす（チェックリスト・結論ボックスを見やすく） */
+.post-content p:has(strong) {
+  margin-top: 0.9em;
+  margin-bottom: 0.9em;
+  line-height: 1.8;
+}
+
+/* 引用ブロック（結論ボックス）内の段落間隔も少し広く */
+.post-content blockquote p {
+  margin-top: 0.7em;
+  margin-bottom: 0.7em;
+}
+
+/* 表のセル余白を広めに（横方向にゆったり） */
+.post-content table th,
+.post-content table td {
+  padding: 12px 20px;
+}
+
+/* タイトル内の改行コードを表示に反映（YAML titleで "\n" を使ったとき） */
+.post-title {
+  white-space: pre-line;
+}
+
+/* 出典・補足注記（※印つき）の下にゆったり余白 */
+.post-content .source-note {
+  font-size: 0.92em;
+  color: var(--secondary);
+  margin-top: -0.5em;
+  margin-bottom: 2.4em;
+}
+
+/* PR表記（記事冒頭に表示する広告含有の告知） */
+.pr-notice {
+  background: var(--code-bg);
+  border-left: 4px solid #B58A3D;
+  padding: 0.7em 1em;
+  margin: 1em 0 1.6em 0;
+  font-size: 0.9em;
+  color: var(--secondary);
+  border-radius: 4px;
+}
+.pr-notice p {
+  margin: 0;
+}
+
+/* アフィリエイト商品カード */
+.affiliate-card {
+  display: flex;
+  gap: 1em;
+  align-items: flex-start;
+  border: 1px solid var(--border);
+  background: var(--entry);
+  border-radius: 10px;
+  padding: 1em;
+  margin: 1.5em 0;
+  position: relative;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+.affiliate-card .affiliate-pr-label {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  font-size: 0.72em;
+  color: #B58A3D;
+  background: #FFF8E8;
+  border: 1px solid #E8D8A8;
+  padding: 1px 6px;
+  border-radius: 4px;
+  letter-spacing: 0.05em;
+}
+.affiliate-card .affiliate-image {
+  flex: 0 0 130px;
+  max-width: 130px;
+}
+.affiliate-card .affiliate-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+  animation: none;
+}
+.affiliate-card .affiliate-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.affiliate-card .affiliate-title {
+  font-size: 1.05em;
+  font-weight: 700;
+  margin: 0 0 0.5em 0;
+  line-height: 1.4;
+}
+.affiliate-card .affiliate-desc {
+  font-size: 0.92em;
+  color: var(--secondary);
+  margin: 0 0 0.8em 0;
+  line-height: 1.6;
+}
+.affiliate-card .affiliate-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+}
+.affiliate-card .affiliate-btn {
+  display: inline-block;
+  padding: 0.5em 1em;
+  font-size: 0.9em;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  color: #fff;
+}
+.affiliate-card .affiliate-btn:hover {
+  opacity: 0.88;
+  transform: translateY(-1px);
+}
+.affiliate-card .affiliate-btn-amazon {
+  background: #FF9900;
+  color: #1A1A1A;
+}
+.affiliate-card .affiliate-btn-rakuten {
+  background: #BF0000;
+}
+
+/* スマホでは縦並びに */
+@media (max-width: 600px) {
+  .affiliate-card {
+    flex-direction: column;
+  }
+  .affiliate-card .affiliate-image {
+    flex: 0 0 auto;
+    max-width: 180px;
+    margin: 0 auto;
+  }
+}
+
+/* 吹き出し（会話形式・Torapon＋読者役） */
+.fukidashi {
+  display: flex;
+  gap: 14px;
+  margin: 1.4em 0;
+  align-items: flex-start;
+}
+.fukidashi-right {
+  flex-direction: row-reverse;
+}
+.fukidashi-icon {
+  flex: 0 0 64px;
+  text-align: center;
+}
+.fukidashi-icon img {
+  width: 64px !important;
+  height: 64px !important;
+  max-width: 64px !important;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--border);
+  background: var(--entry);
+  display: block;
+  margin: 0 auto;
+  animation: none;
+}
+.fukidashi-name {
+  display: block;
+  font-size: 0.72em;
+  color: var(--secondary);
+  margin-top: 4px;
+  white-space: nowrap;
+}
+.fukidashi-bubble {
+  position: relative;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  padding: 12px 16px;
+  border-radius: 14px;
+  max-width: 78%;
+  line-height: 1.7;
+}
+.fukidashi-bubble p {
+  margin: 0.4em 0;
+}
+.fukidashi-bubble p:first-child {
+  margin-top: 0;
+}
+.fukidashi-bubble p:last-child {
+  margin-bottom: 0;
+}
+/* 三角矢印（左：Torapon→外向き／右：読者→外向き） */
+.fukidashi-left .fukidashi-bubble::before {
+  content: "";
+  position: absolute;
+  top: 18px;
+  left: -8px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 7px 8px 7px 0;
+  border-color: transparent var(--border) transparent transparent;
+}
+.fukidashi-left .fukidashi-bubble::after {
+  content: "";
+  position: absolute;
+  top: 19px;
+  left: -6px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 6px 7px 6px 0;
+  border-color: transparent var(--entry) transparent transparent;
+}
+.fukidashi-right .fukidashi-bubble::before {
+  content: "";
+  position: absolute;
+  top: 18px;
+  right: -8px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 7px 0 7px 8px;
+  border-color: transparent transparent transparent var(--border);
+}
+.fukidashi-right .fukidashi-bubble::after {
+  content: "";
+  position: absolute;
+  top: 19px;
+  right: -6px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 6px 0 6px 7px;
+  border-color: transparent transparent transparent var(--entry);
+}
+@media (max-width: 600px) {
+  .fukidashi {
+    gap: 10px;
+  }
+  .fukidashi-icon {
+    flex: 0 0 52px;
+  }
+  .fukidashi-icon img {
+    width: 52px !important;
+    height: 52px !important;
+    max-width: 52px !important;
+  }
+  .fukidashi-bubble {
+    max-width: 75%;
+    padding: 10px 13px;
+  }
+}
+
+/* タイトル内の \n を改行として表示する */
+.post-title,
+.entry-header h2,
+.entry-header h3 {
+  white-space: pre-line;
 }

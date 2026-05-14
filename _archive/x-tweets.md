@@ -1,0 +1,587 @@
+# Xつぶやき原稿（@Torapon0104）
+
+> 毎晩20時ごろ、その日の枠の **本文だけ** をコピーして [x.com](https://x.com) で投稿してください。
+> 画像欄に書かれたパスのファイルを添付し、最後にハッシュタグを付けて完成です。
+>
+> 1ツイート = 日本語140字以内 + URL + ハッシュタグ。X日本語上限の安全圏に収めています。
+
+---
+
+## 📅 投稿カレンダー
+
+| 日付 | 枠 | 記事 |
+|------|-----|------|
+| 5/11 (土) | 1-A | 認知症の種類とMCI ① |
+| 5/12 (日) | 1-B | 認知症の種類とMCI ② |
+| 5/13 (月) | 2-A | 14因子 ① |
+| 5/14 (火) | 2-B | 14因子 ② |
+| 5/15 (水) | 3-A | 運動 ① |
+| 5/16 (木) | 3-B | 運動 ② |
+| 5/17 (金) | 4-A | 7500歩 ① |
+| 5/18 (土) | 4-B | 7500歩 ② |
+| 5/19 (日) | 5-A | 食卓 ① |
+| 5/20 (月) | 5-B | 食卓 ② |
+| 5/21 (火) | 6-A | コレステロール ① |
+| 5/22 (水) | 6-B | コレステロール ② |
+| 5/23 (木) | 7-A | 薬 ① |
+| 5/24 (金) | 7-B | 薬 ② |
+| 5/25 (土) | 8-A | NAD+ ① |
+| 5/26 (日) | 8-B | NAD+ ② |
+| 5/27 (月) | 9-A | 介護予防の相談 ① |
+| 5/28 (火) | 9-B | 介護予防の相談 ② |
+| 5/29 (水) | 10-A | 介護認定 ① |
+| 5/30 (木) | 10-B | 介護認定 ② |
+| 5/31 (金) | 11-A | 介護保険サービス ① |
+| 6/1 (土) | 11-B | 介護保険サービス ② |
+
+---
+
+## 5/11 (土) — 1-A：認知症の種類とMCI ①
+
+**画像：** `content/posts/dementia-types-mci/images/cover-family-elder.png`
+
+```
+「最近、親が同じ話を何度もする…」
+それって、ただの加齢？それとも認知症？
+実はその間に、"MCI（軽度認知障害）" という早期発見のカギになる段階があるんです。
+家族として気づくべきサインをまとめました🌱
+
+🔗 https://torapon-kenkou.com/posts/dementia-types-mci/
+#認知症 #MCI
+```
+
+---
+
+## 5/12 (日) — 1-B：認知症の種類とMCI ②
+
+**画像：** `content/posts/dementia-types-mci/images/cover-family-elder.png`
+
+```
+認知症の前段階「MCI」は、年に10〜15%が認知症に進む一方、適切な対応で正常に戻れる方もいます。
+カギは "気づいたら早く相談" すること。
+かかりつけ医・物忘れ外来・地域包括支援センターの3つが入口です🍵
+
+🔗 https://torapon-kenkou.com/posts/dementia-types-mci/
+#MCI #認知症予防
+```
+
+---
+
+## 5/13 (月) — 2-A：日本人の認知症14因子 ①
+
+**画像：** `content/posts/dementia-japan-14-factors/images/cover-japan-prevention.png`
+
+```
+日本人の認知症、約4割は予防できる――
+東海大の最新研究（Lancet 2026）が示した数字です。
+カギは "難聴" と "運動不足"。
+特に難聴は、補聴器を使うだけでリスクが大きく下がります🎧
+
+🔗 https://torapon-kenkou.com/posts/dementia-japan-14-factors/
+#認知症予防 #補聴器
+```
+
+---
+
+## 5/14 (火) — 2-B：14因子 ②
+
+**画像：** `content/posts/dementia-japan-14-factors/images/cover-japan-prevention.png`
+
+```
+認知症リスクを下げる14の生活習慣のうち、日本人で効果が大きいトップ3は
+① 難聴対策
+② 運動習慣
+③ 高血圧・コレステロール管理
+"何か特別なこと" じゃなく、健診と耳の検査から始められます🩺
+
+🔗 https://torapon-kenkou.com/posts/dementia-japan-14-factors/
+#認知症予防 #健康習慣
+```
+
+---
+
+## 5/15 (水) — 3-A：運動 ①
+
+**画像：** `content/posts/dementia-prevention-exercise/images/cover-walking.png`
+
+```
+60代から運動を始めるだけで、認知症リスクが最大45%下がる――
+これ、現時点の予防策のなかでも特に効果が大きい数字なんです。
+"ややきつい" を週3回、合計150分。
+"脳の貯金"、今日から始めましょう🏃‍♂️
+
+🔗 https://torapon-kenkou.com/posts/dementia-prevention-exercise/
+#認知症予防 #運動習慣
+```
+
+---
+
+## 5/16 (木) — 3-B：運動 ②
+
+**画像：** `content/posts/dementia-prevention-exercise/images/cover-walking.png`
+
+```
+運動が続かない方へ。
+おすすめは "コグニサイズ"（足踏みしながらしりとり等の二重課題）と、有酸素運動（速歩き）の組み合わせ。
+BDNF（脳のたんぱく）が増えて、記憶力が底上げされます🌳
+
+🔗 https://torapon-kenkou.com/posts/dementia-prevention-exercise/
+#コグニサイズ #認知症予防
+```
+
+---
+
+## 5/17 (金) — 4-A：1日5,000〜7,500歩 ①
+
+**画像：** `content/posts/walking-7500-steps/images/cover-walking-7500.png`
+
+```
+"1日1万歩" にこだわらなくてOKです。
+最新のNature Medicine（2025）の研究で、5,000〜7,500歩あたりが
+アルツハイマー病の進行を最も遅らせる「スイートスポット」だとわかってきました👟
+
+🔗 https://torapon-kenkou.com/posts/walking-7500-steps/
+#認知症予防 #歩活
+```
+
+---
+
+## 5/18 (土) — 4-B：7500歩 ②
+
+**画像：** `content/posts/walking-7500-steps/images/cover-walking-7500.png`
+
+```
+歩数が増えるほど、脳のタウたんぱく（認知症の原因物質）の蓄積スピードが緩やかになる――
+急なリターンは5,000歩前後から始まり、7,500歩でなだらかな上り坂に。
+"無理しない歩活" が、いちばん長続きします🌿
+
+🔗 https://torapon-kenkou.com/posts/walking-7500-steps/
+#ウォーキング #認知症予防
+```
+
+---
+
+## 5/19 (日) — 5-A：食卓 ①
+
+**画像：** `content/posts/dementia-prevention-nutrition/images/cover-table.png`
+
+```
+"認知症予防は、食卓から" ――
+MCI（軽度認知障害）の段階なら、食事を整えるだけで正常に戻れる方もいます。
+ポイントは、年代でギアチェンジすること。
+50代と70代で必要な栄養は違うんです🥗
+
+🔗 https://torapon-kenkou.com/posts/dementia-prevention-nutrition/
+#認知症予防 #食事
+```
+
+---
+
+## 5/20 (月) — 5-B：食卓 ②
+
+**画像：** `content/posts/dementia-prevention-nutrition/images/cover-table.png`
+
+```
+認知症予防にいい食卓の3本柱
+① 青魚（DHA・EPA）
+② 緑黄色野菜＋食物繊維
+③ 共食（誰かと食べる）
+減塩・腹八分目・腸活もセットで。
+特別なサプリよりも、毎日の "ごはん" が効きます🍚
+
+🔗 https://torapon-kenkou.com/posts/dementia-prevention-nutrition/
+#認知症予防 #食習慣
+```
+
+---
+
+## 5/21 (火) — 6-A：コレステロール ①
+
+**画像：** `content/posts/posts/2021/cholesterol-level/images/cover-kenshin.png`
+
+```
+コレステロールが気になる方へ。
+理学療法士30年の結論は、たった3つ。
+① 青魚を週2〜3回
+② 野菜を先に食べる
+③ 1日20分のウォーキング
+特別な努力じゃなく、今日から始められます🐟
+
+🔗 https://torapon-kenkou.com/posts/posts/2021/cholesterol-level/
+#コレステロール #生活習慣病
+```
+
+---
+
+## 5/22 (水) — 6-B：コレステロール ②
+
+**画像：** `content/posts/posts/2021/cholesterol-level/images/cover-kenshin.png`
+
+```
+健診で "コレステロール高め" と言われたら、薬の前にまず3つ。
+① 食事（青魚＋野菜先食べ）
+② 運動（ウォーキング）
+③ 体重（BMI管理）
+これだけで下がる方も多いんです。
+焦らず、3か月単位で見直しましょう🌱
+
+🔗 https://torapon-kenkou.com/posts/posts/2021/cholesterol-level/
+#健康診断 #コレステロール
+```
+
+---
+
+## 5/23 (木) — 7-A：薬 ①
+
+**画像：** `content/posts/dementia-drug-therapy/images/cover-medication.png`
+
+```
+認知症の薬物治療、ここ数年で大きく変わりました。
+従来の "症状をやわらげる薬" に加えて、
+病気の進行そのものを遅らせる "DMT（疾患修飾薬）" が登場。
+レカネマブ・ドナネマブが代表で、MCI〜軽度が対象です💊
+
+🔗 https://torapon-kenkou.com/posts/dementia-drug-therapy/
+#認知症 #DMT
+```
+
+---
+
+## 5/24 (金) — 7-B：薬 ②
+
+**画像：** `content/posts/dementia-drug-therapy/images/cover-medication.png`
+
+```
+新しい認知症の薬（DMT）には "ARIA" という脳のむくみや微小出血の副作用があり、節目ごとにMRIで見守ります。
+多くは無症状ですが、安全に使うには早期発見が必須。
+"気づいた時の進み具合" が選択肢を決めます🌅
+
+🔗 https://torapon-kenkou.com/posts/dementia-drug-therapy/
+#認知症 #早期発見
+```
+
+---
+
+## 5/25 (土) — 8-A：NAD+ ①
+
+**画像：** `content/posts/alzheimer-nad-plus-research/images/cover-sunrise.png`
+
+```
+アルツハイマー病に、新しい希望の光――
+細胞のエネルギーを支える "NAD+" という分子に、脳の保護効果がある可能性が報告されています。
+すぐ薬になる話ではないけれど、食事や生活で補える栄養素なんです🌅
+
+🔗 https://torapon-kenkou.com/posts/alzheimer-nad-plus-research/
+#NAD #アルツハイマー
+```
+
+---
+
+## 5/26 (日) — 8-B：NAD+ ②
+
+**画像：** `content/posts/alzheimer-nad-plus-research/images/cover-sunrise.png`
+
+```
+NAD+を増やすために、今日からできること。
+① 睡眠を整える（NAD+は夜つくられる）
+② 適度な運動
+③ 過度なアルコールを控える
+最新研究は希望をくれますが、結局は "整った生活" が脳を守る基本です😊
+
+🔗 https://torapon-kenkou.com/posts/alzheimer-nad-plus-research/
+#NAD #健康習慣
+```
+
+---
+
+## 5/27 (月) — 9-A：介護予防の相談 ①
+
+**画像：** `content/posts/posts/2021/kaigoyobou/images/cover-family-elder.png`
+
+```
+"親の様子が、前と違う気がする…"
+そんな違和感、当たっていることが多いんです。
+"気づいたら早く相談" が認知症予防の第一歩。
+我慢して何年もかかってからより、半年早ければ選択肢がぐっと広がります🌸
+
+🔗 https://torapon-kenkou.com/posts/posts/2021/kaigoyobou/
+#介護予防 #家族介護
+```
+
+---
+
+## 5/28 (火) — 9-B：介護予防の相談 ②
+
+**画像：** `content/posts/posts/2021/kaigoyobou/images/cover-family-elder.png`
+
+```
+"親がちょっと心配" のときの相談先は、この2つ。
+① かかりつけ医（または神経内科）
+② 地域包括支援センター
+どちらも介護認定の前から無料で使えます。
+"認定がついてから…" と思わず、迷う段階から訪ねてOKです🤝
+
+🔗 https://torapon-kenkou.com/posts/posts/2021/kaigoyobou/
+#地域包括支援センター #介護
+```
+
+---
+
+## 5/29 (水) — 10-A：介護認定 ①
+
+**画像：** `content/posts/posts/2021/kaigonintei/images/cover-kaigo-family.png`
+
+```
+介護認定は、5つのステップで決まります。
+① 市役所で申請
+② 自宅で認定調査
+③ 主治医が意見書
+④ 専門家の審査会
+⑤ 結果が郵送（原則30日以内）
+申請から結果まで、ざっと1か月。早めの動きが安心です📩
+
+🔗 https://torapon-kenkou.com/posts/posts/2021/kaigonintei/
+#介護認定 #介護
+```
+
+---
+
+## 5/30 (木) — 10-B：介護認定 ②
+
+**画像：** `content/posts/posts/2021/kaigonintei/images/cover-kaigo-family.png`
+
+```
+介護認定でつまずきやすいポイント。
+・調査日に "いつもより元気にふるまってしまう"
+・本人がいないと話せない内容がある
+対策は "認定調査前に家族からメモを渡す" こと。
+普段の困りごとを箇条書きで主治医・調査員に伝えるのが◎📝
+
+🔗 https://torapon-kenkou.com/posts/posts/2021/kaigonintei/
+#介護認定 #家族介護
+```
+
+---
+
+## 5/31 (金) — 11-A：介護保険サービス ①
+
+**画像：** `content/posts/posts/2022/kaigoservice/images/cover-shisetsu.png`
+
+```
+介護保険のサービスは、大きく2種類です。
+① 居宅サービス（自宅で受ける／訪問・通所・ショートステイ）
+② 施設サービス（特養・老健などに入る）
+"うちで暮らしたい" なら①、家族の限界が近ければ②、と分けて考えると整理しやすいです🏠
+
+🔗 https://torapon-kenkou.com/posts/posts/2022/kaigoservice/
+#介護保険 #介護
+```
+
+---
+
+## 6/1 (土) — 11-B：介護保険サービス ②
+
+**画像：** `content/posts/posts/2022/kaigoservice/images/cover-shisetsu.png`
+
+```
+介護保険のサービスは、原則 "1割負担" で使えます（収入により2〜3割）。
+ケアマネさんが作るケアプランに沿って、必要な分だけ組み合わせます。
+"全部を毎日" じゃなく、無理のない範囲で。
+家族が共倒れしない使い方が長続きします🤲
+
+🔗 https://torapon-kenkou.com/posts/posts/2022/kaigoservice/
+#介護保険 #ケアマネ
+```
+
+---
+
+## 6/2 (火) — 12-A：脳のしくみ ①
+
+**画像：** `content/posts/cognitive-decline-brain-anatomy/images/cover-brain.png`
+
+```
+「最近、人の名前がスッと出てこない」
+それ、脳のどこのせい？
+記憶を担う海馬、判断を担う前頭前皮質、注意のスイッチ役のサリエンスネットワーク。
+脳のしくみをやさしくまとめました🧠
+
+🔗 https://torapon-kenkou.com/posts/cognitive-decline-brain-anatomy/
+#認知機能 #健康ブログ
+```
+
+---
+
+## 6/3 (水) — 12-B：脳のしくみ ② ✅ 2026-05-14 投稿済
+
+**画像：** `content/posts/cognitive-decline-brain-anatomy/images/cover-brain.png`
+
+```
+脳は「固定の機械」ではなく、ネットワーク（チームプレー）で動いています。
+ぼんやり／集中モードを切り替えるのが、サリエンスネットワークの仕事。
+どこが・どう働くかを知れば、守るべき場所が見えてきます🌱
+
+🔗 https://torapon-kenkou.com/posts/cognitive-decline-brain-anatomy/
+#脳の健康 #認知症予防
+```
+
+---
+
+## 6/4 (木) — 13-A：衰えの機序 ①
+
+**画像：** `content/posts/cognitive-decline-mechanism/images/cover-aging-brain.png`
+
+```
+「同じ話を何度かしてしまう」――
+それ、年のせい？ それとも何かのサイン？
+脳の中で起きている "萎縮・ミエリンの劣化・ネットワークの不調・ストレス" の4つの変化を、できるだけやさしく解きほぐしました🧠
+
+🔗 https://torapon-kenkou.com/posts/cognitive-decline-mechanism/
+#認知機能 #健康ブログ
+```
+
+---
+
+## 6/5 (金) — 13-B：衰えの機序 ②
+
+**画像：** `content/posts/cognitive-decline-mechanism/images/cover-aging-brain.png`
+
+```
+脳のミエリン（神経の保護膜）は加齢で薄くなりますが──
+有酸素運動と良い睡眠で作り直せることが分かっています。
+衰えは "ある日突然" ではなく、毎日の積み重ね。守り方も同じです🌱
+
+🔗 https://torapon-kenkou.com/posts/cognitive-decline-mechanism/
+#脳の健康 #認知症予防
+```
+
+---
+
+## 6/6 (土) — 14-A：予防の4本柱 ①
+
+**画像：** `content/posts/cognitive-decline-prevention-overview/images/cover-four-pillars.png`
+
+```
+「で、結局なにをすればいいの？」
+答えは4本柱：運動・食事・人とのつながり・睡眠。
+特別な道具も難しい知識もいりません。
+"これなら続けられそう" から始めるのがコツです🌳
+
+🔗 https://torapon-kenkou.com/posts/cognitive-decline-prevention-overview/
+#認知症予防 #健康ブログ
+```
+
+---
+
+## 6/7 (日) — 14-B：予防の4本柱 ②
+
+**画像：** `content/posts/cognitive-decline-prevention-overview/images/cover-four-pillars.png`
+
+```
+"血管の健康は、そのまま脳の健康"
+1日5,000〜7,500歩のウォーキング、和食ベースの食事、月1〜2回の共食、規則的な睡眠。
+脳は何歳になっても変わる力（神経可塑性）を持っています🌱
+
+🔗 https://torapon-kenkou.com/posts/cognitive-decline-prevention-overview/
+#脳の健康 #認知症予防
+```
+
+---
+
+## 5/19 (火) — 15-A：脳の掃除システム ①
+
+**画像：** `content/posts/brain-sleep-glymphatic/images/cover-brain-night.png`
+
+```
+「眠っている時間って、ただ休んでいるだけ？」
+実は脳の中では、夜のあいだに老廃物を流す"掃除タイム"が始まっています。
+2012年に発見された「グリンパティック・システム」のお話🌙
+
+🔗 https://torapon-kenkou.com/posts/brain-sleep-glymphatic/
+#睡眠 #認知症予防
+```
+
+---
+
+## 5/20 (水) — 15-B：脳の掃除システム ②
+
+**画像：** `content/posts/brain-sleep-glymphatic/images/cover-brain-night.png`
+
+```
+ノンレム睡眠（深い眠り）に入ると、脳の細胞のすき間が約60%も広がります。
+広がったすき間を脳脊髄液が流れ、アミロイドβなどの老廃物を洗い流してくれます。
+眠りは、脳のメンテナンス時間です🌱
+
+🔗 https://torapon-kenkou.com/posts/brain-sleep-glymphatic/
+#脳の健康 #睡眠
+```
+
+---
+
+## 5/21 (木) — 16-A：記憶と感情の整理 ①
+
+**画像：** `content/posts/brain-sleep-memory/images/cover-night-sky.png`
+
+```
+眠っている間、脳の中ではこんなことが起きています——
+🌙 ノンレム睡眠：今日覚えたことを長期記憶へ書き写す
+☁️ レム睡眠：不快な感情をやさしく和らげる
+"何もしていない時間" どころか、いちばん大事な仕事の時間です📚
+
+🔗 https://torapon-kenkou.com/posts/brain-sleep-memory/
+#睡眠 #健康ブログ
+```
+
+---
+
+## 5/22 (金) — 16-B：記憶と感情の整理 ②
+
+**画像：** `content/posts/brain-sleep-memory/images/cover-night-sky.png`
+
+```
+「つらい日こそ寝酒で…」——実はこれが逆効果。
+アルコールはレム睡眠を強く抑え込むため、感情を整える"一晩のセラピー"の時間が失われます。
+辛い日ほど、しっかりとした"素の眠り"を🍵
+
+🔗 https://torapon-kenkou.com/posts/brain-sleep-memory/
+#睡眠 #メンタルヘルス
+```
+
+---
+
+## 5/23 (土) — 17-A：脳が喜ぶ眠り方 ①
+
+**画像：** `content/posts/brain-sleep-practice/images/cover-morning-tea.png`
+
+```
+「で、結局なにを変えればいいの？」
+答えはシンプル：
+✅ 7〜9時間眠る
+✅ 寝る・起きる時刻を一定に
+✅ 寝室は涼しく・暗く・静かに
+今夜からひとつだけ、始めてみませんか🌳
+
+🔗 https://torapon-kenkou.com/posts/brain-sleep-practice/
+#認知症予防 #睡眠
+```
+
+---
+
+## 5/24 (日) — 17-B：脳が喜ぶ眠り方 ②
+
+**画像：** `content/posts/brain-sleep-practice/images/cover-morning-tea.png`
+
+```
+眠りの質を支えるのは、実は"血管の健康"です。
+高血圧・糖尿病・喫煙が続くと、脳の"そうじ機能"が弱まることが分かっています。
+血圧チェック、食後の散歩、検診——どれも未来の脳を守る習慣🌿
+
+🔗 https://torapon-kenkou.com/posts/brain-sleep-practice/
+#脳の健康 #生活習慣病
+```
+
+---
+
+## 完了後の運用
+
+22ツイートを投稿し終えたら、次のシーズン用に新記事が増えるたびに同じファイルに追記していきます。
+記事を新しく書いた日に「2ツイートぶん」も同時に下書きしておくと、ブログ→Xの連携が自然な習慣になります。

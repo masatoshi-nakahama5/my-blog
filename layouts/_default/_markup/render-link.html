@@ -1,2 +1,3 @@
+{{- $isAnchor := hasPrefix .Destination "#" -}}
 {{- $isExternal := or (hasPrefix .Destination "http://") (hasPrefix .Destination "https://") -}}
-<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $isExternal }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Text | safeHTML }}</a>
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if not $isAnchor }} target="_blank"{{ if $isExternal }} rel="noopener noreferrer"{{ end }}{{ end }}>{{ .Text | safeHTML }}</a>
