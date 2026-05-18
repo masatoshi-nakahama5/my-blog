@@ -1,7 +1,7 @@
 ---
 title: "今日から始める『脳が喜ぶ眠り方』\n〜睡眠の質を上げる実践のヒント〜"
 date: 2026-05-17T06:00:00+09:00
-weight: 45
+weight: 110
 categories:
   - "brain"
 tags:
@@ -16,6 +16,7 @@ cover:
   image: "images/cover-morning-tea.png"
   alt: "朝のやわらかな光のなかで、湯気のたつお茶のあるテーブルのイラスト"
 ShowToc: false
+affiliate: true
 ---
 
 ここまで2回にわたって、睡眠と脳の関係を見てきました。
@@ -148,6 +149,19 @@ ShowToc: false
 3回にわたるシリーズ、ここまでお読みいただきありがとうございました。
 今夜、ふとんに入る前に、深呼吸をひとつ。
 ゆっくり、おやすみなさい。
+
+---
+
+### 🛍️ あわせておすすめのアイテム
+
+{{< affiliate
+    title="ガーミン vivosmart 5"
+    image="https://thumbnail.image.rakuten.co.jp/@0_mall/iget/cabinet/garmin2/vivosmart5-1p.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09XGX8ZRW"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Figet%2Fvivosmart5%2F"
+    description="記事で紹介した「7〜9時間ルール」を続ける応援団に。ガーミンの定番モデルは、毎日の睡眠スコアと体力レベル（Body Battery）が一目でわかり、画面も前モデルより66%大きく見やすい設計です。" >}}
+
+---
 
 ## 参考にした情報
 

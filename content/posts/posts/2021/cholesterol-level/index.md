@@ -10,6 +10,7 @@ tags:
 cover:
   image: "images/cover-kenshin.png"
   alt: "健康診断の結果を見て笑顔の男性"
+affiliate: true
 ---
 
 「健康診断でコレステロールが高いと言われた…」
@@ -166,3 +167,14 @@ cover:
 私自身も、おいしいものとの誘惑に負けながら、コツコツ続けています。
 
 無理なく、ご自身のペースで。一緒に健康な毎日を作っていきましょう。
+
+---
+
+### 📚 あわせて読みたい本
+
+{{< affiliate
+    title="脳の毒を出す食事"
+    image="https://thumbnail.image.rakuten.co.jp/@0_mall/bookfan/cabinet/00939/bk4478110255.jpg?_ex=400x400"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4478110255"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookfan%2Fbk-4478110255%2F"
+    description="抗加齢医学の第一人者・白澤卓二先生による食事レシピ本。コレステロールや動脈硬化の対策にもつながる「血管をいたわる食事」が、具体的な献立と買い物リストつきでまとまっています。本記事の『青魚・野菜・きのこ』習慣をさらに広げたい方に。" >}}

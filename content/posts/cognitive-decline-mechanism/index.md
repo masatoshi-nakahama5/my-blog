@@ -1,7 +1,7 @@
 ---
 title: "認知機能はなぜ衰えるの？\n〜脳の中で起きている4つの変化〜"
 date: 2026-05-13T20:00:00+09:00
-weight: 5
+weight: 20
 categories:
   - "brain"
 tags:
@@ -16,6 +16,7 @@ cover:
   image: "images/cover-aging-brain.png"
   alt: "やさしい色合いで描かれた、年を重ねていく脳のイラスト"
 ShowToc: false
+affiliate: true
 ---
 
 「同じ話を何度かしてしまう」  
@@ -228,6 +229,17 @@ ShowToc: false
 - ✅ 大事なのは「**衰えにくくする生活**」を続けること
 
 > このシリーズの最終回は、**「では、どうやって守るのか？」**――今日からできる予防の全体像をまとめます。
+
+---
+
+### 📚 あわせて読みたい本
+
+{{< affiliate
+    title="川島隆太教授のらくらく脳ドリル60日"
+    image="https://thumbnail.image.rakuten.co.jp/@0_mall/bookfan/cabinet/01002/bk4058017902.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4058017902"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookfan%2Fbk-4058017902%2F"
+    description="衰えるしくみを知ったあとは、毎日の小さな『使い方』がカギ。東北大学・川島隆太教授監修の定番ドリルは、大きな字で読みやすく1日10分。前頭前野を働かせる「考える時間」を、無理なく続けるための1冊。" >}}
 
 ---
 

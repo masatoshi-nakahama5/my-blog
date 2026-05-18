@@ -1,7 +1,7 @@
 ---
 title: "今日から始める「脳の守り方」\n〜4本柱で続ける認知機能の予防〜"
 date: 2026-05-14T20:00:00+09:00
-weight: 15
+weight: 30
 categories:
   - "prevention"
 tags:
@@ -17,6 +17,7 @@ cover:
   image: "images/cover-four-pillars.png"
   alt: "運動・食事・人とのつながり・睡眠を象徴するやさしいイラスト"
 ShowToc: false
+affiliate: true
 ---
 
 [第1回](/posts/cognitive-decline-brain-anatomy/)では脳の主役たちを、  
@@ -223,6 +224,33 @@ ShowToc: false
 > 👉 [認知症の種類とMCIをやさしく解説](/posts/dementia-types-mci/)  
 > 👉 [認知症の薬物療法は、いまどこまで進んだ？](/posts/dementia-drug-therapy/)  
 > 👉 [アルツハイマー病とNAD+の最新研究](/posts/alzheimer-nad-plus-research/)
+
+---
+
+### 📚 あわせて読みたい本
+
+{{< affiliate
+    title="川島隆太教授のらくらく脳ドリル60日"
+    image="https://thumbnail.image.rakuten.co.jp/@0_mall/bookfan/cabinet/01002/bk4058017902.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4058017902"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookfan%2Fbk-4058017902%2F"
+    description="4本柱のうち「人とのつながり」を支えるのが、頭を働かせる時間。東北大学・川島隆太教授監修の定番ドリルは、大きな字で読みやすく1日10分から。家族や友人と一緒に取り組むのもおすすめです。" >}}
+
+### 🛍️ あわせておすすめのアイテム
+
+{{< affiliate
+    title="Xiaomi Smart Band 9 Pro"
+    image="https://thumbnail.image.rakuten.co.jp/@0_mall/xiaomiofficial/cabinet/11215576/11215582/imgrc0104890177.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DK71CTCK"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fxiaomiofficial%2Fm53488%2F"
+    description="4本柱のうち「運動」と「睡眠」を見える化してくれる手首装着型。歩数・睡眠・心拍を自動記録、1.74インチ大画面で文字も見やすく、最初の1台にちょうどよい一品です。" >}}
+
+{{< affiliate
+    title="ハンドル付き 健康ステッパー"
+    image="https://thumbnail.image.rakuten.co.jp/@0_mall/cosyzone/cabinet/12838412/000.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0G1K57HB4"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosyzone%2F06tbj%2F"
+    description="運動を続けたいけれど雨の日や寒い日が心配……という方の強い味方。ふらつきが心配な方も安心のハンドル付き、座っても立っても使える静音設計です。" >}}
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "1日5,000〜7,500歩で、アルツハイマー病の進行が遅くなる？ 〜歩数の『スイートスポット』が見えてきた〜"
 date: 2026-05-08T21:00:00+09:00
-weight: 40
+weight: 70
 categories:
   - "prevention"
 tags:
@@ -160,8 +160,25 @@ affiliate: true
 {{< affiliate
     title="運動脳（新版）"
     image="https://thumbnail.image.rakuten.co.jp/@0_mall/bookfan/cabinet/01021/bk4763140140.jpg?_ex=400x400"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0GVBCKJDW"
     rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookfan%2Fbk-4763140140%2F"
     description="「歩くこと」を含む有酸素運動が、なぜ脳に効くのか――その神経科学的な理由を、一般読者向けにやさしく解説した一冊。本記事で紹介した歩数研究を、毎日の習慣に落とし込むヒントになります。" >}}
+
+### 🛍️ あわせておすすめのアイテム
+
+{{< affiliate
+    title="Xiaomi Smart Band 9 Pro"
+    image="https://thumbnail.image.rakuten.co.jp/@0_mall/xiaomiofficial/cabinet/11215576/11215582/imgrc0104890177.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DK71CTCK"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fxiaomiofficial%2Fm53488%2F"
+    description="「今日は何歩あるけたかな？」を見える化するなら、シャオミの定番スマートバンドが一台目に最適。歩数だけでなく睡眠も自動記録、21日間バッテリーで毎日の充電も不要です。" >}}
+
+{{< affiliate
+    title="ガーミン vivosmart 5"
+    image="https://thumbnail.image.rakuten.co.jp/@0_mall/iget/cabinet/garmin2/vivosmart5-1p.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09XGX8ZRW"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Figet%2Fvivosmart5%2F"
+    description="歩数の精度や運動と回復のバランスまでしっかり見たい方には、ガーミンの定番モデル。前モデルより画面が66%大きく文字が見やすく、長く使える設計です。" >}}
 
 ---
 

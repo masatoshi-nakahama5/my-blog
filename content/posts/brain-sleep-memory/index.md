@@ -1,7 +1,7 @@
 ---
 title: "眠っている間、脳は何をしているの？\n〜記憶と感情の整理整頓〜"
 date: 2026-05-16T06:00:00+09:00
-weight: 35
+weight: 100
 categories:
   - "brain"
 tags:
@@ -16,6 +16,7 @@ cover:
   image: "images/cover-night-sky.png"
   alt: "やわらかな夜空のもと、星と本のイラストが穏やかに浮かぶ"
 ShowToc: false
+affiliate: true
 ---
 
 「ぐっすり眠ったはずなのに、頭がスッキリしない」
@@ -141,6 +142,19 @@ ShowToc: false
 今夜のあなたの脳も、きっと一生懸命に整理整頓してくれています。
 
 次回はいよいよ最終回、**「今日から始める『脳が喜ぶ眠り方』」**——具体的な実践のお話です。お楽しみに。
+
+---
+
+### 🛍️ あわせておすすめのアイテム
+
+{{< affiliate
+    title="Xiaomi Smart Band 9 Pro"
+    image="https://thumbnail.image.rakuten.co.jp/@0_mall/xiaomiofficial/cabinet/11215576/11215582/imgrc0104890177.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DK71CTCK"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fxiaomiofficial%2Fm53488%2F"
+    description="ノンレム・レムの切り替わりが見えるだけで、「あ、今日のレム睡眠は短かったな」と気づける日が増えます。シャオミの定番スマートバンドは、手首につけるだけで毎晩の睡眠を自動記録してくれる、見える化の第一歩です。" >}}
+
+---
 
 ## 参考にした情報
 

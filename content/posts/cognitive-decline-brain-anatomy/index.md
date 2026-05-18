@@ -1,7 +1,7 @@
 ---
 title: "認知機能ってそもそも何？\n〜記憶・注意・判断を支える「脳のしくみ」を知る〜"
 date: 2026-05-12T06:00:00+09:00
-weight: 2
+weight: 10
 categories:
   - "brain"
 tags:
@@ -200,13 +200,21 @@ affiliate: true
 
 ---
 
-### 📚 あわせて読みたい一冊
+### 📚 あわせて読みたい本
 
 {{< affiliate
     title="運動脳（新版）"
     image="https://thumbnail.image.rakuten.co.jp/@0_mall/bookfan/cabinet/01021/bk4763140140.jpg?_ex=400x400"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0GVBCKJDW"
     rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookfan%2Fbk-4763140140%2F"
     description="前頭前皮質も海馬も、運動で鍛えられる――その仕組みを多数の研究で示した一冊。本記事で紹介した「脳のしくみ」を、実際に守る方法までやさしく解説しています。スウェーデンの精神科医による世界的ベストセラー。" >}}
+
+{{< affiliate
+    title="川島隆太教授のらくらく脳ドリル60日"
+    image="https://thumbnail.image.rakuten.co.jp/@0_mall/bookfan/cabinet/01002/bk4058017902.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4058017902"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookfan%2Fbk-4058017902%2F"
+    description="脳トレドリルの第一人者・東北大学の川島隆太教授が監修。「大きな字」設計でシニアにも読みやすく、1日10分×60日で続けやすい構成。記事で紹介した「前頭前野を働かせる習慣」を、毎日の数分で形にできる定番ドリル。" >}}
 
 ---
 

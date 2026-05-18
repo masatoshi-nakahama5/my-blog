@@ -1,7 +1,7 @@
 ---
 title: "ぐっすり眠ると、脳が掃除される？\n〜眠りと脳のふしぎな関係〜"
 date: 2026-05-15T06:00:00+09:00
-weight: 25
+weight: 90
 categories:
   - "brain"
 tags:
@@ -16,6 +16,7 @@ cover:
   image: "images/cover-brain-night.png"
   alt: "夜空の下、月明かりにそっと照らされる脳のイラスト"
 ShowToc: false
+affiliate: true
 ---
 
 「最近、ぐっすり眠れていますか？」
@@ -152,6 +153,19 @@ ShowToc: false
 ぜひ今夜、いつもより少しだけ早く、ふとんに入ってみてくださいね。
 
 次回は、**「眠っている間、脳は何をしているの？」**——記憶と感情の整理について、もう少し踏み込んでお話しします。お楽しみに。
+
+---
+
+### 🛍️ あわせておすすめのアイテム
+
+{{< affiliate
+    title="Xiaomi Smart Band 9 Pro"
+    image="https://thumbnail.image.rakuten.co.jp/@0_mall/xiaomiofficial/cabinet/11215576/11215582/imgrc0104890177.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DK71CTCK"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fxiaomiofficial%2Fm53488%2F"
+    description="脳の「お掃除タイム」（ノンレム睡眠）の長さは、自分の感覚だけではなかなかわかりません。手首に着けるだけで毎晩の睡眠を自動記録してくれるスマートバンドが、見える化の最初の一歩に。21日間のロングバッテリーで毎日の充電もほぼ不要です。" >}}
+
+---
 
 ## 参考にした情報
 

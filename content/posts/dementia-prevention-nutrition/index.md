@@ -1,7 +1,7 @@
 ---
 title: "認知症予防は「食卓」から\n〜MCIからの回復にも効く食事の整え方〜"
 date: 2026-05-09T19:30:00+09:00
-weight: 50
+weight: 80
 categories:
   - "prevention"
 tags:
@@ -269,12 +269,14 @@ affiliate: true
 {{< affiliate
     title="最高の体調"
     image="https://thumbnail.image.rakuten.co.jp/@0_mall/bookfan/cabinet/00814/bk4295402125.jpg?_ex=400x400"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4295402125"
     rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookfan%2Fbk-4295402125%2F"
     description="「なぜ私たちは現代食で不調になるのか」を、進化医学の視点からやさしく整理した一冊。食事だけでなく、睡眠・運動・腸内環境まで含めて『最高の体調』を整える方法が、シニア世代にも分かりやすく書かれています。" >}}
 
 {{< affiliate
     title="脳の毒を出す食事"
     image="https://thumbnail.image.rakuten.co.jp/@0_mall/bookfan/cabinet/00939/bk4478110255.jpg?_ex=400x400"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4478110255"
     rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookfan%2Fbk-4478110255%2F"
     description="抗加齢医学の第一人者・白澤卓二先生による、認知症予防のための食事レシピ本。アルミニウム・糖化・酸化など、脳にたまりやすい「毒」をどう食事で減らしていくか――具体的な献立と買い物リストまで載っていて、明日からの食卓にすぐ取り入れられます。" >}}
 

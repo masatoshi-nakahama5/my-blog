@@ -1,7 +1,7 @@
 ---
 title: "日本人の認知症、約4割は予防できる 〜カギは「難聴」と「運動不足」〜"
 date: 2026-05-08T21:30:00+09:00
-weight: 20
+weight: 50
 categories:
   - "prevention"
 tags:
@@ -171,8 +171,25 @@ affiliate: true
 {{< affiliate
     title="運動脳（新版）"
     image="https://thumbnail.image.rakuten.co.jp/@0_mall/bookfan/cabinet/01021/bk4763140140.jpg?_ex=400x400"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0GVBCKJDW"
     rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookfan%2Fbk-4763140140%2F"
     description="14因子のうち「運動不足」「うつ」「社会的孤立」など複数のリスクを、一度にまとめて下げられるのが運動です。スウェーデンの精神科医が、運動と脳の関係を一般向けにわかりやすく解説した世界的ベストセラー。" >}}
+
+### 🛍️ あわせておすすめのアイテム
+
+{{< affiliate
+    title="ガーミン vivosmart 5"
+    image="https://thumbnail.image.rakuten.co.jp/@0_mall/iget/cabinet/garmin2/vivosmart5-1p.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09XGX8ZRW"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Figet%2Fvivosmart5%2F"
+    description="「運動不足」リスクを見える化するなら、毎日の歩数・睡眠スコア・体力レベル（Body Battery）が一目でわかるこの一台。前モデルより画面が66%大きく、シニアにも文字が読みやすくなっています。" >}}
+
+{{< affiliate
+    title="ハンドル付き 健康ステッパー"
+    image="https://thumbnail.image.rakuten.co.jp/@0_mall/cosyzone/cabinet/12838412/000.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0G1K57HB4"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosyzone%2F06tbj%2F"
+    description="外出が難しい日でも続けられる、家の中の「ながら運動」のお供。ふらつき防止のハンドル付き、座っても立っても使える静音設計です。" >}}
 
 ---
 
