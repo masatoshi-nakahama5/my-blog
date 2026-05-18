@@ -1,7 +1,7 @@
 ---
 title: "今日から始める『脳が喜ぶ眠り方』\n〜睡眠の質を上げる実践のヒント〜"
 date: 2026-05-17T06:00:00+09:00
-weight: 110
+weight: 120
 categories:
   - "brain"
 tags:

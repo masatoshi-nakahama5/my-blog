@@ -1,7 +1,7 @@
 ---
 title: "アルツハイマー病に明るい光？ 〜『NAD+』研究の進展と、いま私たちにできること〜"
 date: 2026-05-04T20:00:00+09:00
-weight: 130
+weight: 140
 categories:
   - "dementia"
 tags:

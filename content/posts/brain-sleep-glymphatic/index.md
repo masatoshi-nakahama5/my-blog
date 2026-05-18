@@ -1,7 +1,7 @@
 ---
 title: "ぐっすり眠ると、脳が掃除される？\n〜眠りと脳のふしぎな関係〜"
 date: 2026-05-15T06:00:00+09:00
-weight: 90
+weight: 100
 categories:
   - "brain"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "認知症ガイドラインが9年ぶりに大改訂\n〜『治せない病』から『進行を抑える病』へ〜"
 date: 2026-05-19T06:00:00+09:00
-weight: 140
+weight: 150
 categories:
   - "dementia"
 tags:

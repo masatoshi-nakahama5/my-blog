@@ -1,7 +1,7 @@
 ---
 title: "コレステロールが気になる方へ。今日から始められる『3つの習慣』"
 date: 2021-11-02
-weight: 55
+weight: 90
 categories: 
   - "health"
 tags: 

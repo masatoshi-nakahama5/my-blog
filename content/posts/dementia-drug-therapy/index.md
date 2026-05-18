@@ -1,7 +1,7 @@
 ---
 title: "認知症の薬、いま何が変わったのか\n〜『症状をやわらげる薬』と『進行を遅らせる薬』〜"
 date: 2026-05-10T20:00:00+09:00
-weight: 120
+weight: 130
 categories:
   - "dementia"
 tags:
