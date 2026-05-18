@@ -2,8 +2,9 @@ name: Daily deploy
 
 on:
   schedule:
-    # 06:00 JST = 21:00 UTC (蜑肴律)
-    - cron: '0 21 * * *'
+    # 毎時0分に実行（GitHub Actionsのcron遅延・スキップ対策で頻度を上げる）
+    # これで予約公開記事は最大1時間以内に必ず公開される
+    - cron: '0 * * * *'
   push:
     branches: [main]
   workflow_dispatch:
