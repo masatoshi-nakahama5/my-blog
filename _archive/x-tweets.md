@@ -613,6 +613,41 @@ NAD+を増やすために、今日からできること。
 
 ---
 
+## 5/27 (水) — 19-A：MCI×運動2026 ①
+
+**画像：** `content/posts/mci-exercise-multidomain-2026/images/cover-community-walking.png`
+
+```
+「運動が大事」は分かるけど、何をどれくらい？
+最新研究から見えてきたのは、
+✅ 週3回以上
+✅ 有酸素＋筋トレ＋デュアルタスクを組み合わせ
+✅ 5年単位で続ける
+このシンプルな"かけ算"でした🌳
+
+🔗 https://torapon-kenkou.com/posts/mci-exercise-multidomain-2026/
+#認知症予防 #MCI
+```
+
+---
+
+## 5/28 (木) — 19-B：MCI×運動2026 ②
+
+**画像：** `content/posts/mci-exercise-multidomain-2026/images/step-counting.png`
+
+```
+家でできる"組み合わせ運動"3つ。
+① 100から3ずつ引きながら足踏み
+② 椅子の立ち座り＋しりとり
+③ ラジオ体操＋自分で数える
+ちょっと頭、ちょっと体——筑波大の5年追跡では"参加率60%以上"が認知機能を保つ分かれ目でした🌱
+
+🔗 https://torapon-kenkou.com/posts/mci-exercise-multidomain-2026/
+#認知症予防 #リハビリ
+```
+
+---
+
 ## 完了後の運用
 
 22ツイートを投稿し終えたら、次のシーズン用に新記事が増えるたびに同じファイルに追記していきます。
