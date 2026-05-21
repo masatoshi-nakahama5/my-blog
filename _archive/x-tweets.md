@@ -652,3 +652,37 @@ NAD+を増やすために、今日からできること。
 
 22ツイートを投稿し終えたら、次のシーズン用に新記事が増えるたびに同じファイルに追記していきます。
 記事を新しく書いた日に「2ツイートぶん」も同時に下書きしておくと、ブログ→Xの連携が自然な習慣になります。
+
+---
+
+## 5/29 (金) — 20-A：地中海食×日本食 ①
+
+**画像：** `content/posts/japanese-mediterranean-diet/images/cover-japanese-mediterranean.png`
+
+```
+「地中海食 or 日本食、どっちがいいの？」
+で迷っていませんか？
+実は"両方のいいとこ取り"が現実解。
+JDI9スコアが高い人ほど認知症が少ない——魚介・きのこ・大豆・コーヒーがカギでした🍵
+
+🔗 https://torapon-kenkou.com/posts/japanese-mediterranean-diet/
+#認知症予防 #栄養
+```
+
+---
+
+## 5/30 (土) — 20-B：地中海食×日本食 ②
+
+**画像：** `content/posts/japanese-mediterranean-diet/images/three-dishes.png`
+
+```
+"地中海食×和食"の合体3皿、ご紹介。
+① サバごぼう
+② しめじ・えのきの醤油炒め
+③ ブロッコリーとちりめんじゃこのオリーブ油炒め
+スーパーで普通に買える材料ばかり。今夜、ひと皿だけでも🌱
+
+🔗 https://torapon-kenkou.com/posts/japanese-mediterranean-diet/
+#脳の健康 #食事
+```
+
