@@ -1,7 +1,7 @@
 ---
 title: "『何を、どれくらい』のヒントが見えてきました\n〜MCIから始める運動の最適解〜"
 date: 2026-05-20T06:00:00+09:00
-weight: 160
+weight: 50
 categories:
   - "dementia"
 tags:

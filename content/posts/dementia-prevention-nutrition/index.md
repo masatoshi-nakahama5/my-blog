@@ -1,7 +1,7 @@
 ---
 title: "認知症予防は「食卓」から\n〜MCIからの回復にも効く食事の整え方〜"
 date: 2026-05-09T19:30:00+09:00
-weight: 80
+weight: 90
 categories:
   - "prevention"
 tags:

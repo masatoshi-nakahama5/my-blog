@@ -1,7 +1,7 @@
 ---
 title: "日本人の認知症、約4割は予防できる 〜カギは「難聴」と「運動不足」〜"
 date: 2026-05-08T21:30:00+09:00
-weight: 50
+weight: 60
 categories:
   - "prevention"
 tags:

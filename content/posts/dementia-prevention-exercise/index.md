@@ -1,7 +1,7 @@
 ---
 title: "認知症リスクを45％下げる運動習慣 〜60代から始める「脳の貯金」〜"
 date: 2026-05-08T20:30:00+09:00
-weight: 60
+weight: 70
 categories:
   - "prevention"
 tags:
