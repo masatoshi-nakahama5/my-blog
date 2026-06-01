@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://torapon-kenkou.com/"
 languageCode = "ja"
 title = "健康の窓口"
 theme = "PaperMod"
