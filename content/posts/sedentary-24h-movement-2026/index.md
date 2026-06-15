@@ -15,6 +15,7 @@ cover:
   image: "images/cover-active-life.png"
   alt: "Torapon"
 ShowToc: false
+affiliate: true
 ---
 
 「気がつくと、朝から夕方までずっと椅子に座っていた…」
@@ -84,6 +85,16 @@ ShowToc: false
     image="https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/12855415/12862747/st121.jpg"
     rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ftkms%2Fst121%2F"
     description="足元に置いて、テレビを見ながら時々ペダルを回すだけ。電源不要・静音・マグネット式で、夜のリビングでもご家族の迷惑になりにくい設計です。負荷は16段階で、年齢や体力に合わせて調節できます。「座りすぎの座位」を「動く座位」に置きかえる入り口にちょうど良い1台です。" >}}
+
+体を動かす習慣は、家の中だけでなく「通える場所」をつくるのも続けるコツ。外でしっかり運動したい方には、こんな選択肢もあります。
+
+<div style="position:relative;border:1px solid var(--border);background:var(--entry);border-radius:10px;padding:1.2em 1em;margin:1.2em 0;text-align:center;">
+<span class="affiliate-pr-label" style="position:absolute;top:8px;right:10px;font-size:0.72em;color:#B58A3D;background:#FFF8E8;border:1px solid #E8D9B5;border-radius:4px;padding:1px 6px;">PR</span>
+<p style="font-size:1.05em;font-weight:700;margin:0 0 0.6em;">【銀座】パーソナルジム ACCEPT</p>
+<p style="font-size:0.92em;color:var(--secondary);margin:0 0 0.9em;line-height:1.7;text-align:left;">世界大会で活躍するプロトレーナーが、マンツーマンで指導。運動が初めての方や年齢が気になる方も、利用期限なしで自分のペースに合わせて続けられます。気になる方は、まず<strong>無料の体験トレーニング</strong>から。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5610410&p_id=6463&pc_id=18262&pl_id=82876" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" attributionsrc><img src="//image.moshimo.com/af-img/6218/000000082876.png" width="250" height="250" style="border:none;"></a><img src="//i.moshimo.com/af/i/impression?a_id=5610410&p_id=6463&pc_id=18262&pl_id=82876" width="1" height="1" style="border:none;" loading="lazy">
+<p style="font-size:0.8em;color:var(--secondary);margin:0.9em 0 0;line-height:1.8;text-align:left;border-top:1px solid var(--border);padding-top:0.7em;">店舗名：【銀座】パーソナルジム ACCEPT<br>住所：〒104-0061 東京都中央区銀座２丁目１２−４ アジリア銀座 J's402<br>電話：080-7052-5320<br>営業時間：10:00〜22:00（定休日：年末年始のみ 12/31〜1/1）</p>
+</div>
 
 ## いま私たちにできること
 

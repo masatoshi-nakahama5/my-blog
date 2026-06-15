@@ -164,14 +164,19 @@ affiliate: true
     rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookfan%2Fbk-4763140140%2F"
     description="「歩くこと」を含む有酸素運動が、なぜ脳に効くのか――その神経科学的な理由を、一般読者向けにやさしく解説した一冊。本記事で紹介した歩数研究を、毎日の習慣に落とし込むヒントになります。" >}}
 
-### 🛍️ あわせておすすめのアイテム
+### 🏋️ 運動を続けたい方へ
 
-{{< affiliate
-    title="Xiaomi Smart Band 9 Pro"
-    image="https://thumbnail.image.rakuten.co.jp/@0_mall/xiaomiofficial/cabinet/11215576/11215582/imgrc0104890177.jpg"
-    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DK71CTCK"
-    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fxiaomiofficial%2Fm53488%2F"
-    description="「今日は何歩あるけたかな？」を見える化するなら、シャオミの定番スマートバンドが一台目に最適。歩数だけでなく睡眠も自動記録、21日間バッテリーで毎日の充電も不要です。" >}}
+「一人だとなかなか続かない」という方は、通えるジムを利用するのもひとつの方法です。
+
+<div style="position:relative;border:1px solid var(--border);background:var(--entry);border-radius:10px;padding:1.2em 1em;margin:1.2em 0;text-align:center;">
+<span class="affiliate-pr-label" style="position:absolute;top:8px;right:10px;font-size:0.72em;color:#B58A3D;background:#FFF8E8;border:1px solid #E8D9B5;border-radius:4px;padding:1px 6px;">PR</span>
+<p style="font-size:1.05em;font-weight:700;margin:0 0 0.6em;">【銀座】パーソナルジム ACCEPT</p>
+<p style="font-size:0.92em;color:var(--secondary);margin:0 0 0.9em;line-height:1.7;text-align:left;">世界大会で活躍するプロトレーナーが、マンツーマンで指導。運動が初めての方や年齢が気になる方も、利用期限なしで自分のペースに合わせて続けられます。気になる方は、まず<strong>無料の体験トレーニング</strong>から。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5610410&p_id=6463&pc_id=18262&pl_id=82876" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" attributionsrc><img src="//image.moshimo.com/af-img/6218/000000082876.png" width="250" height="250" style="border:none;"></a><img src="//i.moshimo.com/af/i/impression?a_id=5610410&p_id=6463&pc_id=18262&pl_id=82876" width="1" height="1" style="border:none;" loading="lazy">
+<p style="font-size:0.8em;color:var(--secondary);margin:0.9em 0 0;line-height:1.8;text-align:left;border-top:1px solid var(--border);padding-top:0.7em;">店舗名：【銀座】パーソナルジム ACCEPT<br>住所：〒104-0061 東京都中央区銀座２丁目１２−４ アジリア銀座 J's402<br>電話：080-7052-5320<br>営業時間：10:00〜22:00（定休日：年末年始のみ 12/31〜1/1）</p>
+</div>
+
+### 🛍️ あわせておすすめのアイテム
 
 {{< affiliate
     title="ガーミン vivosmart 5"

@@ -1,7 +1,7 @@
 ---
 title: "脳は「自分で治す力」を取り戻せる？ 〜改良型ビタミンKと神経再生の研究〜"
 date: 2026-06-01T11:00:00+09:00
-weight: 108
+weight: 152
 categories:
   - "dementia"
 tags:

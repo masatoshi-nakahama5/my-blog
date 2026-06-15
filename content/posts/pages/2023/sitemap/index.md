@@ -49,5 +49,10 @@ build:
 ## SNSでフォローする
 
 <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:1rem;">
-<!-- SNSアカウントが決まり次第ここにボタンを追加します -->
+
+<a href="https://x.com/Torapon0104" target="_blank" rel="noopener"
+  style="display:inline-flex;align-items:center;gap:8px;padding:10px 20px;background:#000;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">
+  𝕏（Twitter）でフォロー
+</a>
+
 </div>
