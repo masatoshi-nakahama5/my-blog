@@ -1,7 +1,7 @@
 ---
 title: "眠っている間に、脳は「明日の準備」をしている？ 〜睡眠と“未来の記憶”の意外な関係〜"
 date: 2026-06-20T10:00:00+09:00
-weight: 125
+weight: 132
 categories:
   - "lifestyle"
 tags:
