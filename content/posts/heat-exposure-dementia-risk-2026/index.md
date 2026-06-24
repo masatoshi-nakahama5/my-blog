@@ -16,6 +16,7 @@ cover:
   image: "images/cover-summer-heat.png"
   alt: "猛暑の中で涼をとるシニアのイラスト"
 ShowToc: false
+affiliate: true
 ---
 
 年々きびしくなる夏の暑さ。「ご高齢のご家族が心配」「自分も夏になると体がつらい」と感じている方は、多いのではないでしょうか。
@@ -117,6 +118,22 @@ ShowToc: false
 > ✅ **離れて暮らすご家族は、こまめな声かけを。** 電話で「エアコンつけてる?」の一言が、見守りになる
 
 ご高齢の方や持病のある方は、暑さの影響を受けやすいことがあります。**※ 体調や水分の取り方に不安があるときは、かかりつけ医にご相談ください。**
+
+暑さ対策のちょっとした道具も、心強い味方になります。記事でも触れた「室温・湿度の見える化」や「身近な冷感グッズ」を、無理のない範囲で取り入れてみてください。
+
+{{< affiliate
+    title="デジタル温湿度計（卓上・マグネット式）"
+    image="https://shop.r10s.jp/meijo/cabinet/11012444/11176229/rt-sdj-t17-wh-15.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB010CK58K4"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeijo%2Fm-ws01wh%2F"
+    description="記事でも触れた「室温・湿度の見える化」に。手のひらサイズで、卓上にもマグネットでも置けて、温度と湿度がひと目でわかります。数字で見えると、ご本人もまわりも『そろそろエアコンを』と気づきやすくなります。" >}}
+
+{{< affiliate
+    title="SUO クールリング（首もとひんやり）"
+    image="https://image.rakuten.co.jp/suo-life/cabinet/07612893/coolring_l/2026/ovalring_001.jpg"
+    amazon="https://af.moshimo.com/af/c/click?a_id=5534074&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0B4ND3J2F"
+    rakuten="https://af.moshimo.com/af/c/click?a_id=5533903&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuo-life%2Fsuo_ovalring%2F"
+    description="首もとを冷やすクールリングは、外出時や入浴後のほてり対策に手軽です。一定の温度で自然に凍る素材で結露しにくく、くり返し使えます。エアコンが苦手な方の『もう少し涼しく』を、無理なく助けてくれます。" >}}
 
 > あわせて読みたい  
 > 👉 [認知症予防の4本柱 〜運動・食事・つながり・睡眠〜](/posts/cognitive-decline-prevention-overview/)
