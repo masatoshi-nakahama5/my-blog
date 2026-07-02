@@ -1,0 +1,45 @@
+name: Brain News Nightly Research
+
+on:
+  # ▼▼ ANTHROPIC_API_KEY のSecret登録が済むまで自動実行は止めています ▼▼
+  # 使い始めるときは、下の schedule のコメント（#）を外してください。
+  # schedule:
+  #   # 毎日 02:00 JST = 17:00 UTC (前日)
+  #   - cron: '0 17 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Run brain news research
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python .github/scripts/brain_news.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "brain-news-bot"
+          git config user.email "brain-news-bot@users.noreply.github.com"
+          DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
+          git add "_archive/brain-news/${DATE}.md"
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Brain news: ${DATE}"
+            git push
+          fi

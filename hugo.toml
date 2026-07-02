@@ -58,3 +58,8 @@ theme = "PaperMod"
   name = "お問い合わせ"
   url = "/posts/pages/2023/contact/"
   weight = 40
+
+[[menus.main]]
+  name = "姉妹サイト：ゴルフのカラダ研究所"
+  url = "https://golf-karada.com/"
+  weight = 50
