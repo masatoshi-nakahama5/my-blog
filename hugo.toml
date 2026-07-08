@@ -12,7 +12,7 @@ theme = "PaperMod"
 
   [params.profileMode]
     enabled = true
-    title = "Toraponの健康ブログ"
+    title = "脳の健康"
     subtitle = "認知症・介護・健康について、わかりやすい情報をお届けします。"
     imageUrl = "/images/tiger.png"
     imageWidth = 280

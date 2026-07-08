@@ -22,17 +22,17 @@ build:
 
 <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:1rem;">
 
-<a href="https://twitter.com/intent/tweet?url=https://my-blog-8oq.pages.dev&text=Toraponの健康ブログ" target="_blank" rel="noopener"
+<a href="https://twitter.com/intent/tweet?url=https://torapon-kenkou.com&text=脳の健康" target="_blank" rel="noopener"
   style="display:inline-flex;align-items:center;gap:8px;padding:10px 20px;background:#000;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">
   𝕏（Twitter）でシェア
 </a>
 
-<a href="https://www.facebook.com/sharer/sharer.php?u=https://my-blog-8oq.pages.dev" target="_blank" rel="noopener"
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://torapon-kenkou.com" target="_blank" rel="noopener"
   style="display:inline-flex;align-items:center;gap:8px;padding:10px 20px;background:#1877F2;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">
   Facebookでシェア
 </a>
 
-<a href="https://social-plugins.line.me/lineit/share?url=https://my-blog-8oq.pages.dev" target="_blank" rel="noopener"
+<a href="https://social-plugins.line.me/lineit/share?url=https://torapon-kenkou.com" target="_blank" rel="noopener"
   style="display:inline-flex;align-items:center;gap:8px;padding:10px 20px;background:#06C755;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">
   LINEでシェア
 </a>
