@@ -1,7 +1,7 @@
 ---
 title: "「レントゲンは異常なしなのに、なぜ痛い？」 〜腰痛と脳の、意外な関係のお話〜"
 date: 2026-07-22T21:10:00+09:00
-weight: 85
+weight: 180
 categories:
   - "lifestyle"
 tags:
