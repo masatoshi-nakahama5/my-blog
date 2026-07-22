@@ -1,6 +1,7 @@
 ---
 title: "介護（認知症）予防は『早く相談する』ことから。家族が気づいたときに取るべき行動"
 date: 2021-11-08
+weight: 178
 categories: 
   - "dementia"
 tags: 

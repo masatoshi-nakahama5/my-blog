@@ -1,6 +1,7 @@
 ---
 title: "介護認定ってどうやって決まるの？申請から結果までの流れをやさしく解説"
 date: 2021-11-19
+weight: 177
 categories: 
   - "nursing"
 tags: 
