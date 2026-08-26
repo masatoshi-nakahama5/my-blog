@@ -1,7 +1,7 @@
 ---
 title: "認知症を防ぐ「血管と代謝」の整え方 〜数字で見える7つの危険因子〜"
 date: 2026-06-13T16:30:00+09:00
-weight: 62
+weight: 63
 categories:
   - "prevention"
 tags:
