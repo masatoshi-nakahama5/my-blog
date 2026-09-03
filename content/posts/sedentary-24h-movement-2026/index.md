@@ -1,7 +1,7 @@
 ---
 title: "1日8時間以上座っていませんか？\n〜『動く・座らない・眠る』で守る24時間〜"
 date: 2026-05-24T06:00:00+09:00
-weight: 135
+weight: 137
 categories:
   - "prevention"
 tags:
