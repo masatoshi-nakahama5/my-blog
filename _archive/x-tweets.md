@@ -1242,3 +1242,20 @@ https://torapon-kenkou.com/posts/meal-timing-dementia-2026/
 
 ※記事は9/13 07:00 自動公開／X予約はその13時間後
 ※投稿前に @Torapon0104 でログインしているか確認（ゴルフの@golf_karadaと取り違え注意）
+
+## 中年期の3つの状態と認知症のない年数（midlife-dementia-free-years-2026）
+予定：2026-09-17(木) 20:00（@Torapon0104）★Claudeが予約・Scheduled一覧で確認済み
+
+55歳ころの高血圧・糖尿病・たばこ。
+
+アメリカの1万2千人を追った研究では、3つとも当てはまる人は、どれも当てはまらない人より、95歳までに認知症にならずに過ごせた年数が12.6年短くなっていました。
+
+ただし、早く亡くなった方の分も含まれます🌳
+
+https://torapon-kenkou.com/posts/midlife-dementia-free-years-2026/
+
+#認知症予防
+
+※重み271/280
+※記事は9/17 07:00 自動公開／X予約はその13時間後
+※投稿前に @Torapon0104 でログインしているか確認（ゴルフの@golf_karadaと取り違え注意）
