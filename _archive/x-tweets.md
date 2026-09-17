@@ -1259,3 +1259,18 @@ https://torapon-kenkou.com/posts/midlife-dementia-free-years-2026/
 ※重み271/280
 ※記事は9/17 07:00 自動公開／X予約はその13時間後
 ※投稿前に @Torapon0104 でログインしているか確認（ゴルフの@golf_karadaと取り違え注意）
+
+## 支えのある形で続ける多因子介入（multidomain-group-program-2026）
+予定：2026-09-21(月) 20:00（@Torapon0104）★Claudeが予約・Scheduled一覧で確認済み
+
+「一人だと続かない」は、意志の弱さのせいでしょうか。
+
+中南米の1,065人をくじ引きで分けた研究では、指導と仲間の集まりがある形で2年間取り組んだ人のほうが、自分で取り組んだ人より、認知機能テストの点がよく伸びていました🌱
+
+https://torapon-kenkou.com/posts/multidomain-group-program-2026/
+
+#認知症予防
+
+※重み254/280
+※記事は9/21 07:00 自動公開／X予約はその13時間後
+※投稿前に @Torapon0104 でログインしているか確認（ゴルフの@golf_karadaと取り違え注意）
