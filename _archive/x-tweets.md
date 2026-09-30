@@ -1306,3 +1306,18 @@ https://torapon-kenkou.com/posts/dog-walking-dementia-2026/
 
 ※重み270/280
 ※記事は10/1 07:00 自動公開／X予約はその13時間後
+
+## 禁煙と脳（smoking-cessation-brain-2026）
+予定：2026-10-03(土) 20:00（@Torapon0104）★Claudeが予約・Scheduled一覧で確認済み
+
+たばこは、何歳でやめても遅くない？
+
+やめた人は、吸い続けた人より、その後の頭の衰え方がゆるやかでした。しかも、何歳でやめても同じ傾向でした🌱
+
+https://torapon-kenkou.com/posts/smoking-cessation-brain-2026/
+
+#認知症予防
+
+※重み178/280
+※記事は10/3 07:00 自動公開／X予約はその13時間後
+※投稿前に @Torapon0104 でログインしているか確認（このときはユーザーが切り替え後に確認）
