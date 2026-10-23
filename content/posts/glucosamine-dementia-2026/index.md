@@ -257,8 +257,8 @@ affiliate: true
 <div style="position:relative;border:1px solid var(--border);background:var(--entry);border-radius:10px;padding:1.2em 1em;margin:1.2em 0;text-align:center;">
 <span class="affiliate-pr-label" style="position:absolute;top:8px;right:10px;font-size:0.72em;color:#B58A3D;background:#FFF8E8;border:1px solid #E8D9B5;border-radius:4px;padding:1px 6px;">PR</span>
 <p style="font-size:1.05em;font-weight:700;margin:0 0 0.6em;">フィットネスジム FIT24</p>
-<p style="font-size:0.92em;color:var(--secondary);margin:0 0 0.9em;line-height:1.7;text-align:left;">24時間いつでも通える、フィットネスジム。早朝でも夜でも、自分の生活リズムに合わせて体を動かせます。「決まった時間に通うのはむずかしい」という方の、運動を続けるきっかけに。</p>
-<a href="//af.moshimo.com/af/c/click?a_id=5652963&p_id=7246&pc_id=20781&pl_id=91269" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" attributionsrc><img src="//image.moshimo.com/af-img/6112/000000091269.jpg" width="100" height="60" style="border:none;"></a><img src="//i.moshimo.com/af/i/impression?a_id=5652963&p_id=7246&pc_id=20781&pl_id=91269" width="1" height="1" style="border:none;" loading="lazy">
+<p style="font-size:0.92em;color:var(--secondary);margin:0 0 0.9em;line-height:1.7;text-align:left;">24時間いつでも通える、フィットネスジム。早朝でも夜でも、自分の生活リズムに合わせて体を動かせます。いきなり入会しなくても、まずは<strong>無料体験</strong>（約60分・スタッフがマシンの使い方を案内）でお試しできます。「決まった時間に通うのはむずかしい」という方の、運動を続けるきっかけに。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5652963&p_id=7246&pc_id=20781&pl_id=97582" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" attributionsrc><img src="//image.moshimo.com/af-img/6112/000000097582.jpg" width="234" height="60" style="border:none;"></a><img src="//i.moshimo.com/af/i/impression?a_id=5652963&p_id=7246&pc_id=20781&pl_id=97582" width="1" height="1" style="border:none;" loading="lazy">
 </div>
 
 ---
